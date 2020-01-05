@@ -1,6 +1,6 @@
 <h1>Listing Topic</h1>
 
-<table>
+<table class="striped">
   <thead>
     <tr>
       <th>Tittle</th>
