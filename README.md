@@ -1,6 +1,8 @@
 # Discuss
 
 First
+
+  * Go to https://github.com/settings/developers and create a 'OAuth App' and use the public and private key in the project.
   
   * Make sure you have configured your database.
 
