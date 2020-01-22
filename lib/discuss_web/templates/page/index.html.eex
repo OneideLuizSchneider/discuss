@@ -9,6 +9,9 @@
       <li>
         <a href="/topic">Topics</a>
       </li>      
+      <li>
+        <a href="/user">Users</a>
+      </li>      
     </ul>
   </article>
 
